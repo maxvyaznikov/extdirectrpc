@@ -5,11 +5,11 @@ from distutils.core import setup
 
 setup(
     name="django-extdirect-rpc",
-    version="0.1.0",
+    version="0.2.0",
     description="A simple Ext.Direct server stack implementation for Django",
     long_description="",
-    author="Obraztsov Ilia",
-    author_email="ilia.obraztsov@gmail.com",
+    author="Obraztsov Ilia, Max Vyaznikov",
+    author_email="ilia.obraztsov@gmail.com,vmn@siterra.org",
     license="Apache 2.0",
     classifiers = [
         'Development Status :: 5 - Production/Stable',
